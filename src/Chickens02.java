@@ -1,8 +1,8 @@
 public class Chickens02 {
     public static void main(String[] args) {
         //Put your code here
-    	double dailyAverage = 0;
-    	double eggCount=0;
+    	int dailyAverage = 0;
+    	int eggCount=0;
     	double monthlyAverage=0;
     	double monthlyProfit=0;
     	//Monday
